@@ -1,0 +1,36 @@
+  body {
+    background-color: #ffd9b3;
+  }
+
+  img {
+    border-radius: 30px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  h1 {
+    text-align: center;
+    color: #b1814e;
+    font-size: 60px;
+    font-family: 'Potta One', cursive;
+  }
+
+  p {
+    text-align: center;
+    color: #b1814e;
+    font-size: 30px;
+    font-family: 'Potta One', cursive;
+  }
+
+  hr {
+    border-color: #ffe6cc;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-top-style: dotted;
+    border-top-width: 15px;
+    width: 8%;
+    padding: 10px;
+  }
